@@ -52,13 +52,28 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 
 ## 📊 OBSERVATION AND CALCULATION
 
-- 
+<img width="280" height="208" alt="image" src="https://github.com/user-attachments/assets/1614ceed-ae01-4a08-a17c-4097bf056063" />
+
+<img width="773" height="588" alt="image" src="https://github.com/user-attachments/assets/1fadd031-a14b-4261-9f4f-0c5773f7cd81" />
+
+<img width="831" height="353" alt="image" src="https://github.com/user-attachments/assets/9ce0b2db-ecbf-46d5-b99e-d3302f5507fe" />
+
+<img width="796" height="353" alt="image" src="https://github.com/user-attachments/assets/b34a202c-0f77-479c-9914-892d2491b8e6" />
+ 
 Parameter of given fiber are,
+
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm
+
 V = 2 π x A x N.A / λ = 4.91
+
 From fig. shows only 4 LP modes propagates.
+
 Total number of modes = V^2 / 2 = 4.91^2 / 2
 
----
 ## Tabulation
+
+<img width="2997" height="1168" alt="image" src="https://github.com/user-attachments/assets/2d66f47f-0bc4-4ea7-8c9e-93b0d02114cd" />
+
 ## Result
+
+Thus the mode characteristics of fiber optic cable supports or propagates through 6 modes and observe four lower order Linearly Polarized (LP) modes.
